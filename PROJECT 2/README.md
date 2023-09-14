@@ -192,4 +192,6 @@ For the ordered list, we use the numbers e.g.
 
 6. Code: To display codes or snippets, we use backicks (``) to enclose the code e.g.
 
-`console.log('Welcome to darey.io')`
+- `console.log('Welcome to darey.io')`
+
+![Alt text](images/p2.19.png)
