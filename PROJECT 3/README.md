@@ -38,7 +38,7 @@ Our server is running and we can access it locally and from the internet. Now we
 
 ![Alt text](images/3.4.png)
 
-Now, we have to test how our Apache HTTP server can respond to requests from the internet, to do so we go to any browser and use the below command; 
+Now, we have to test how our Apache HTTP server can respond to requests from the internet, to do so we go to any browser and use the below command;
 
 `http://<Public-IP-Address>:80`
 
