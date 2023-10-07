@@ -251,4 +251,8 @@ Now we can create a PHP script that will connect to MySQL and query for our cont
 
 Then we can access the page in our web browser by pasting the public IP address followed by `/todo_list.php`
 
+<<<<<<< HEAD
 ![Alt text](images/4.36.png)
+=======
+![Alt text](images/4.36.png)
+>>>>>>> d8b05d710ed71ad4764c65e6576d90aab494a0c8
